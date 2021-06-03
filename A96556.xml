@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Majesties most gracious speech to both houses of Parliament. On Saturnday the twenty third day of November, 1695</title>
+            <title>Speeches. 1695-11-03</title>
+            <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+         </titleStmt>
+         <extent>Approx. 5KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96556</idno><idno type="EEBO-CITATION">99899252</idno>
+  <idno type="VID">152777</idno>
+  <idno type="EEBO-PROQUEST">2248518710</idno>
+  
+            <idno type="STC">Wing W2404</idno>
+            <idno type="STC">ESTC R229735</idno>
+            <idno type="PROQUEST">99899252</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99899252e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96556)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 152777)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2320:8)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Majesties most gracious speech to both houses of Parliament. On Saturnday the twenty third day of November, 1695</title>
+                  <title>Speeches. 1695-11-03</title>
+                  <author>England and Wales. Sovereign (1694-1702 : William III)</author>
+                  <author>William III, King of England, 1650-1702.</author>
+               </titleStmt>
+               <extent>1 sheet ([2] p.)   </extent>
+               <publicationStmt>
+                  <publisher>re-printed by the heirs and successors of Andrew Anderson, printer to the Kings most excellent Majesty,</publisher>
+                  <pubPlace>Edinburgh :</pubPlace>
+                  <date>1695.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the William Andrews Clark Memorial Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702 --  Early works to 1800.</term>
+               <term type="genre_form">Broadsides --  England --  London</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="speech">
+            <pb n="1" facs="tcp:152777:1"/>
+            <head>His Majesties MOST GRACIOUS SPEECH To both Houses of PARLIAMENT. On <hi>Saturnday</hi> the Twenty third day of <hi>November,</hi> 1695.</head>
+            <opener>
+               <salute>My Lords and Gentlemen,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is with great Satisfaction that I Meet you here this Day, being Assur<g ref="char:EOLhyphen"/>ed of a good Disposition in My Par<g ref="char:EOLhyphen"/>liament, when I have had such full Proofs of the Affection of My People, by their Behaviour during My Ab<g ref="char:EOLhyphen"/>sence, and at My Return.</p>
+            <p>I was Engaged in the present War by the Advice of My First Parliament, who thought it Necessary for the De<g ref="char:EOLhyphen"/>fence of Our Religion, and for the Preservation of the Liberties of <hi>Eu<g ref="char:EOLhyphen"/>rope.</hi> The Last Parliament, with great Cheerfulness, did Assist Me to Cary it on; and I cannot Doubt, but that your Concern for the Common Safety will Oblige you to be Unanimous<g ref="char:EOLhyphen"/>ly Zealous in the Prosecution of it. And I am Glad that the Advanta<g ref="char:EOLhyphen"/>ges which We have had this Year, give Us a Reasoneable Ground of Hoping for further Success hereafter.</p>
+            <p>Upon this Occasion, I cannot but take Notice of the Courage and Bravery the <hi>English</hi> Troops have shewn this last Summer; which, I may say, has answered their highest Character in any Age: And it will not be de<g ref="char:EOLhyphen"/>nied, That without the Concurrence of the Valour and Power of <hi>En<g ref="char:EOLhyphen"/>gland</hi> it were impossible to put a Stop to the Ambition and Greatness of <hi>France.</hi>
+            </p>
+            <div type="part">
+               <opener>
+                  <salute>Gentlemen of the House of Commons,</salute>
+               </opener>
+               <p>I think it a great Misfortune, that from the Beginning of My Reign, I have been forced to ask so many and such large Aids of my People, and yet I am Confident you will agree with Me in Opinion, that there will
+<pb n="2" facs="tcp:152777:2"/>be at least as great Supplies requisite, for carrying on the War by Sea and Land this Year, as was Granted in the last Session; the rather, be<g ref="char:EOLhyphen"/>cause Our Enemies are Augmenting their Troops, and the necessity of increasing Our Shipping does plainly appear.</p>
+               <p>The Fonds which have been given, have proved very Deficient.</p>
+               <p>The Condition of the Civil List is such, That it will not be possible for Me to Subsist, unless that Matter be taken into your Care.</p>
+               <p>And Compassion Obliges Me to mention the miserable Circumstances of the <hi>French</hi> Protestants, who suffer for their Religion.</p>
+               <p>And therefore, Gentlemen, I must earnestly Recommend to you, to provide a Supply suitable to these several Occasions.</p>
+               <p>I must likewise take Notice of a great Difficulty We ly under at this time, by reason of the ill State of the Coin; the Redress of which, may perhaps prove a further Charge to the Nation: But this is a Matter of so General Concern, and of so very great Importance, That I have thought fit to leave it entirely to the Consideration of my Parliament.</p>
+               <p>I did Recommed to the last Parliament, the Forming some good Bill for the Incouragement and Increase of Seamen; I hope you will not let this Session pass without doing somewhat in it: And that you will consider of such Laws as may be Proper for the Advancement of Trade, and will have a particular Regard to that of the <hi>East-Indies,</hi> lest it should be lost to the Nation. And while the War makes it necessary to have an Army Abroad, I could wish some Way might be thought of, to Raise the ne<g ref="char:EOLhyphen"/>cessary Recruits without giving Occasion of Complaint.</p>
+               <p>My Desire to meet my People in a New Parliament, has made the Opening of this Session very late; which, I Hope, you will have such Regard to, as to make all possible Dispatch of the great Business before you, and will call to Mind, That by the long Continuance of the last Session, We did not only lose Advantages which We might have had at the Beginning of the Campaign, but gave the Enemy such an Opportu<g ref="char:EOLhyphen"/>nity, as might have proved very Fatal to Us. And I am the more Con<g ref="char:EOLhyphen"/>cerned to Press this, because of the great Preparations which the <hi>French</hi> make to be Early in the Field this Year.</p>
+            </div>
+            <div type="part">
+               <opener>
+                  <salute>My Lords,</salute>
+               </opener>
+               <p>
+                  <hi>I</hi> have had such Experience of your Good Affections, and I have such an entire Satisfaction in the Choice, which My People have made of you, <hi>Gentlemen of the House of Commons,</hi> That I promise My Self a Happy Con<g ref="char:EOLhyphen"/>clusion of this Session, unless you suffer your selves to be misled into Heats and Divisions; which, being the only Hope Our Enemies have now left, I make no Doubt but you will entirely Disappoint, by your Prudence and Love to your Countrey.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>Edinburgh,</hi> Re-printed by the Heirs and Successors of <hi>Andrew Anderson,</hi> Printer to the Kings Most Excellent Majesty, 1695.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
